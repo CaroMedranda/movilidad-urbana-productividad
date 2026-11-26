@@ -88,3 +88,5 @@ Los resultados describen patrones y posibles asociaciones; no permiten establece
 Este proyecto permitió aplicar herramientas de análisis de datos para integrar, limpiar, transformar y explorar información de diferentes fuentes. Los resultados muestran la importancia de considerar tanto el comportamiento de las variables como la calidad de los datos y sus limitaciones al momento de interpretar los hallazgos.
 
 Además, permitió fortalecer habilidades en Python, análisis exploratorio de datos, visualización y comunicación de resultados.
+
+**Proyecto desarrollado como parte de mi formación en Análisis de Datos en TripleTen.**
